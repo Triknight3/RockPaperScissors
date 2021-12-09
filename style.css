@@ -1,0 +1,26 @@
+body {
+
+    padding-top: 100px;
+    background-color: #378487;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#results {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 500;
+    border: 8px solid #9e42f5;
+    margin-top: 40px;
+    padding: 50px;
+
+}
+
+ button {
+     margin: 30px;
+     padding: 20px 30px;
+     background-color: #832bd6;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: 600;
+ }
